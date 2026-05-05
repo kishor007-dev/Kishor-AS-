@@ -103,19 +103,6 @@ Full-stack stock price alert system with real-time push notifications.
 
 ---
 
-### ⚡ [API Load Tester](https://github.com/kishor007-dev/api-load-tester)
-> *Performance tooling*
-
-Concurrent API load testing with real-time WebSocket streaming and visualizations.
-
-- 📊 Calculates **p50, p95, p99** percentile metrics
-- 🔄 Configurable concurrency using `asyncio` + `Semaphore`
-- 📈 Live result streaming to frontend with **Chart.js**
-
-`FastAPI` `asyncio` `httpx` `WebSockets` `Chart.js`
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -138,7 +125,6 @@ Concurrent API load testing with real-time WebSocket streaming and visualization
 - 🏗️ Phase 2 SaaS — LLM Gateway streaming + token metering
 - 📐 System Design — load balancing, Redis Pub/Sub, caching, rate limiting
 - 🧮 DSA — pattern-based prep (Arrays → Trees → Graphs → DP)
-- ☁️ Cloud infrastructure fundamentals
 
 ---
 
