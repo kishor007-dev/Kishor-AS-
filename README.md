@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kishor A S
 
-### ⚡ Backend & AI Developer · FastAPI · LLM APIs · RAG · Multi-Tenant SaaS
+### ⚡ Backend & AI Developer • Full stack systems • FastAPI · LLM APIs · RAG · Multi-Tenant SaaS
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD4F7&center=true&vCenter=true&width=600&lines=Backend+%26+AI+Developer;FastAPI+%7C+LLM+Gateway+%7C+RAG+Pipelines;Building+Multi-Tenant+SaaS+from+scratch;Open+to+SWE+%2F+Backend+%2F+AI+Roles+2026!)](https://git.io/typing-svg)
 
